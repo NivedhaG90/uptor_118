@@ -1,0 +1,11 @@
+Always first step in data science is to analyse if any null data exists.
+
+so far we have seen only 2 metrics -
+
+Linear based algorithm
+
+////
+interview:
+If my input is non linear, first I will check decision tree algorithm. It itself will fix parent column and create the tree and predict it.
+
+

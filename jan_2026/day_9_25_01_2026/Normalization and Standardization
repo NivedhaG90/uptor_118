@@ -1,0 +1,41 @@
+Height(cm) Weight(kg) Score(int) Average(float) Rank(int)
+150         80          5000        50          1
+
+Model will consider cumulative value and gives result based on that. Hence we need to convert into below format.
+
+Converting one form of number into another form of number is called either standardization or Normalization
+
+Standardization:
+
+Converting the number into another form that produces normal distribution
+Note: Revolves around Mean (Average)
+from sklearn.preprocessing import StandardScaler
+(-2,-1,0,1,2)
+
+Normalization:
+
+Converting the number into another form that produces uniform distribution
+from sklearn.preprocessing import MinMaxScaler
+(0,1,2)
+
+When to use ?
+
+Model that is working based on "Distance Based Algorithm"
+
+When is StandardScaler and when is MinMaxScaler is used?
+    When u know the pattern of the data distribution, then go for StandardScaler.
+    When u dont know the pattern of the data distribution, then go for MinMaxScaler.
+
+Algorithm or Models that works in Distance Based.
+1.  KNN
+2.  KMeans
+3.  Hierarchical Clustering
+4.  DBScan
+
+Score
+
+1000
+900
+
+800
+7000

@@ -1,0 +1,41 @@
+Installation:
+
+Python
+https://www.python.org/downloads/
+
+PyCharm
+https://pycharm-community-edition.en.softonic.com/download?installerType=riseInstaller
+
+GitHub sign-in
+https://github.com/login/oauth/authorize
+
+GitHub Desktop App
+https://desktop.github.com/download/
+
+Git for Windows- Sync between (local) GitHub desktop code and (Remote) github internet repository
+https://git-scm.com/install/windows
+
+Microsoft Power BI for Desktop:
+https://www.microsoft.com/en-us/download/details.aspx?id=58494
+
+To install a single library
+    pip install <library required>
+    pip install pandas
+
+Command for installing more than one library
+    pip install <lib1> <lib2> <lib3>
+    pip install pandas scipy
+
+List of libraries needed:
+    pandas
+    scikit-learn
+    matplotlib
+    seaborn
+    statsmodels
+    torch
+    tensorflow
+
+pip install -r requirements.txt
+
+
+

@@ -1,0 +1,68 @@
+Matplotlib - basic visualisation
+seaborn - advanced. designed on top of matplotlib. Thats why even while using seaborn, u use matplotlib to show the plot and to add title etc.
+
+distribution plot (histogram) - based on means
+
+chart used for data distribution - Histogram
+to find Outlier (group la doop) - Box Plot
+to find co-ordinates for 2 data - line plot
+to check overall data - Scatter plot
+Correlation - heatmap
+
+every chart is defined for a purpose
+
+Correlation:
+If one column value increases and other column value also increases - positive correlation
+If one column value increases and other column value decreases - negative correlation
+If no relation between 2 columns - 0 correlation
+
+If we want to find the relation between 2 columns - use heatmap
+
+Interview:
+Some Model (linear regression) will be decided based on correlation. If its highly correlated, go with this model
+
+//
+
+In python - we will do programmatically
+
+Power BI - Visualisation tool
+
+Open power BI Desktop tool
+Select diamonds.csv
+Load
+In RHs, Under data u can see diamonds
+whatever has summation (E) symbol - it denotes, those are numerical data
+Click Stacked bar chart
+It needs x and y data
+Drag cut and price to the chart
+It displays the chart beautifully in minimalistic way than programming in python. It displays cut and sum of prices.
+If u drag color, it will display color specific data in each bar.
+Same thing we will do in data IQ also
+
+advanced excel of microsoft - power BI
+
+Click +new sheet
+Get data at top and load diamonds.csv again
+U can see existing dataset also at RHS
+Click Slicer Visualisation
+drag cut to it
+Now click outside
+click card under Visualisation
+drag price to it
+select fair alone at top
+U can filter and see as both are interconnected
+
+Similarly if u want to interconnect sheet 1 and sheet 2, u can achieve via filter. Autosync - we will see later.
+
+Now click slicer component in sheet 2,
+under visualisation > Format Visual > slicer settings
+u will have style, select options.
+
+in LHS, if u click Model View, u can see the models and relation also will be established. - check it. Like primary key, foreign key.
+cardinality - table to table establishment
+
+///
+
+Visualisation is EDA - Explorative Data Analysis
+
+So far we have seen all about pre processing

@@ -1,0 +1,20 @@
+1. Metrics:
+
+Metrics is the process of evaluating how well our model performed against train and test data
+
+Regression:
+    When the target is continuous data. whatever year u give, output will vary continuously
+
+    ex: Gold price, Age, House Price.
+
+    metrics - r2_score, mean_absolute_error, mean_squared_error #interview question
+
+    #Based on data, you have to choose regression or classification.
+
+Classification:
+    When the target is categorical data or non continuous data. Means output will be discrete.
+
+    ex: degree, qualification, cancer, spam mail
+
+    metrics - accuracy_score, classification_report, confusion_matrix, f1_score, recall, precision #interview question
+

@@ -1,0 +1,14 @@
+1. When x data has linear relation ship over the target
+2. here x may be single or many columns
+3. Ensure that all belongs to numeric columns
+
+Year  House_PRice
+2000   10000
+2001   20000
+2002   30000
+2003   40000
+2004   50000
+2005   60000
+
+2006
+2007

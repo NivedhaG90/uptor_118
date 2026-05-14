@@ -1,0 +1,22 @@
+Preprocessing:
+
+Doing something for the data to be clean !!
+
+1. Data reading and understanding
+2. Data cleaning
+    Finding null data, Removing and filling
+        Solution:
+            2.1 Fill using pandas method
+            2.2 remove it
+            2.3 Fill using scikit-learn impuute mechanism (numerical only)
+    Finding Duplicate data
+    Finding & Removing
+3. Data Wrangling
+    Pivot
+    Grouping
+    Converting data from one form to another form (categorical data into numerical data)
+4.  EDA (Exploratory Data Analysis)
+    Visualisation
+5. Feature Engineering
+    Feature Selection
+    Feature Extract

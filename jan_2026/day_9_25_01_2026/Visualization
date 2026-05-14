@@ -1,0 +1,26 @@
+Representing the value in the form of charts is called Visualization
+
+In pandas or datascience, Visualization can be done using below library
+
+1. matplotlib
+2. seaborn
+3. plotly
+4. dash
+
+Types of Charts:
+
+1. Uni-Variate (Single Column or Single Data)
+1. Bi-Variate (Min two column needed (x and y))
+
+Working flow:
+1. Number vs Number
+2. Category vs Number
+3. Number only
+4. Categories only
+
+Tools for Visualisation:
+1. Power BI
+2. Tableau
+3. Detaiku
+4. Cloud (AWS and Azure)
+

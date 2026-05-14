@@ -1,0 +1,55 @@
+python - Software Language
+1. Python is called Interpreter Language or Scripting Language
+1.1 Why ?
+    any program that doesnt do the compiling is called interpreter programming
+    language
+
+2. python can also be called "Dynamic Programming Language" because
+it creates the memory on the run Time.
+
+3. Python is sequential programming execution.
+3.1 If needed we can make it parallel.
+3.1 Multithreading or multiprocessing or asyncio or concurrency
+
+4. By default, Python is unstructured programming language
+ 4.1 python can be still followed as structure by implementing
+ OOPS, Class.
+
+5. Python is indent specific
+
+6. types of Data or data structure that python supports
+  6.1 String
+  6.2 List
+  6.3 tuples
+  6.4 dictionary
+  6.5 numbers (int, float , decimal)
+  6.6 Secondary Data Types : Set and FrozenSet
+
+7. Python is called automated garbage collector
+
+8. Python can two categories for data types
+   8.1 Mutable
+         List, Dictionary
+
+   8.2 Im-Mutable
+         String, Tuples, Number
+
+Mutable : Anything that can be modified on its index
+Im-Mutable: Anything that can t be modified on its index
+
+9. Storing the values in the form of keys or with key is called "Hashing"
+
+========================================================================================================================
+
+To comment the code - Ctrl /
+
+List - more than one data. Its not an array.
+[] - list
+() - tuples
+{} - set - It removes duplicates
+
+mutable - It can be changed
+immutable - It cannot be changed
+
+replace is working because its running on a new object
+

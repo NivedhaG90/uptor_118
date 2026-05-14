@@ -1,0 +1,25 @@
+Categorical Data:
+
+1. Ordinal
+    Master, Degree, Diploma
+2. Nominal
+    CSK, RCB, MI
+
+1. Ordinal - Label Encoder
+    Master, Degree, Diploma
+    0       1       2
+
+OneHotEncoding - Pandas, Scikit
+
+Why do we go for OneHotEncoding ?
+
+so finding out the column identity with just 0 and 1s
+
+Player Team
+Dhoni  CSK
+Kohli  RCB
+
+Player Team CSk RCB
+Dhoni  CSK  1   0
+Kohli  RCB  0   1
+

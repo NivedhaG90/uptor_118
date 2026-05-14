@@ -1,0 +1,17 @@
+petal_length petal_width sepal_width sepal_length  class
+ 40       30            30            40            Setosa
+                                                    Virginica
+                                                    Versicolor
+
+
+from sklearn.datasets import load_iris
+
+
+data = load_iris()
+print(data)
+
+feature_details = data.feature_names
+target_details = data.target_names
+
+print(feature_details)
+print(target_details)

@@ -1,0 +1,14 @@
+Logistic Regression :
+
+best fit is binary classifier but we can use others as well. for ex in load_iris data, we have setosa, versicolor and virginica
+
+Classification as Target.
+Binary Classifier.
+
+Input - Linear
+Output - Classifier (Category binary)
+
+
+Year House_Price No_of_Bedroom   Purchased
+2000   30000        2              Yes
+2010   15000        3              No
