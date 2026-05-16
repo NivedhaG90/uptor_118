@@ -22,7 +22,7 @@ Sun 17 ---> Velu does changes in File 1
 Company:
 
 1. Github (enterprise edition)
-  uptor.github.com/uptor118
+    uptor.github.com/uptor118
 2.  Go to that link and download manually
     uptor.github.com (Source) - Remote
     Laptop in which you going to update the Destination - Local
