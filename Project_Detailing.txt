@@ -4,25 +4,4 @@
   a. Python file (1 or 2)
   b. if not jupyter file also fine (should be in format .ipynb)
   c. csv file u used
-  d. 
-
-GITHUB - Microsoft
-1. Storage Based tool
-1.1 GITHUB Source (URL)
-1.2 GITHUB for Desktop (Application)
-
-Also works as Version control for a project:
-
-Main project (made by Mohan)
-  Giving to jagadish ---> Version1 Main project
-  Narmadha ---> Version2 Main
-  Velu ---> Version3 Main
-
-Sat 16 ---> Jagadish does changes in File 1
-  I will merge Main project + Jagadish project (Merge)
-
-Sun 17 ---> Narmadha does change in File 2
-  Main project (Mohan + Jagadish) + Narmadha (Merge)
-
-Sun 17 ---> Velu does changes in File 1
-  Main project (Mohan + Jagadish + Narmadha) + velu // will get merge conflict
+  d.
