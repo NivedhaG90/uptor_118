@@ -18,3 +18,22 @@ Sun 17 ---> Narmadha does change in File 2
 
 Sun 17 ---> Velu does changes in File 1
   Main project (Mohan + Jagadish + Narmadha) + velu // will get merge conflict
+
+Company:
+
+1. Github (enterprise edition)
+  uptor.github.com/uptor118
+2.  Go to that link and download manually
+    uptor.github.com (Source) - Remote
+    Laptop in which you going to update the Destination - Local
+
+Command Based Activity:
+
+1. git init ---> to setup the folder for git communication
+2. git clone
+   git clone https://github.com/mohansivaraman7/uptor_118
+3. Do all the changes in the file and then do the following
+  git add <file name>
+  git commit -m "added code change"
+  Remote ---> Stage ---> local
+  git push 
